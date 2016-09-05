@@ -5,7 +5,7 @@ my-project microservice
 <table border="0">
 <tr>
   <td>
-    <img width="150" alt="Add Docker" src="https://cloud.githubusercontent.com/assets/774714/18239307/4b549300-72f9-11e6-87d1-0a51067c9e17.png">
+    <img width="150" alt="Add Docker" src="https://cloud.githubusercontent.com/assets/774714/18239905/3f067f88-72fd-11e6-912d-a8ddb717f53b.png">
   </td>
   <td>
     <img width="150" alt="Add Hystrix" src="https://cloud.githubusercontent.com/assets/774714/18239339/8cf177d8-72f9-11e6-987f-ada1452fcfd0.png">
